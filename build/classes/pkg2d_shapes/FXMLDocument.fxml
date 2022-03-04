@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Ellipse?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.Polygon?>
+<?import javafx.scene.shape.Rectangle?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1068.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#a6cdf2" height="600.0" layoutY="-7.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="1068.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#00c614" height="106.0" layoutY="494.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="1068.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#f5ffb7" height="225.0" layoutX="73.0" layoutY="287.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="239.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#d76b00" height="145.0" layoutX="92.0" layoutY="367.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="77.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#b8670d" height="132.0" layoutX="538.0" layoutY="374.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="33.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="96.0" layoutX="192.0" layoutY="326.0" stroke="BLACK" strokeType="INSIDE" width="94.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="WHITE" height="85.0" layoutX="198.0" layoutY="332.0" stroke="BLACK" strokeType="INSIDE" width="83.0" />
+      <Line endX="94.0" endY="7.0" layoutX="192.0" layoutY="367.0" startX="8.0" startY="7.0" strokeLineCap="ROUND" strokeWidth="5.0" />
+      <Line endX="40.0" endY="41.0" layoutX="200.0" layoutY="381.0" startX="40.0" startY="-49.0" strokeLineCap="ROUND" strokeWidth="5.0" />
+      <Ellipse fill="#6341fc" layoutX="478.0" layoutY="555.0" radiusX="151.0" radiusY="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Ellipse fill="#05e801" layoutX="534.0" layoutY="332.0" radiusX="68.0" radiusY="48.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Ellipse fill="#05e801" layoutX="592.0" layoutY="338.0" radiusX="68.0" radiusY="53.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Ellipse fill="#05e801" layoutX="543.0" layoutY="300.0" radiusX="39.0" radiusY="61.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Ellipse fill="#05e801" layoutX="596.0" layoutY="304.0" radiusX="55.0" radiusY="37.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Ellipse fill="#ff1818" layoutX="834.0" layoutY="504.0" radiusX="120.0" radiusY="43.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Ellipse fill="#9a9a9a" layoutX="768.0" layoutY="540.0" radiusX="28.0" radiusY="28.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="20.0" />
+      <Ellipse fill="#9a9a9a" layoutX="905.0" layoutY="547.0" radiusX="28.0" radiusY="28.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="20.0" />
+      <Ellipse fill="#f3ff46" layoutX="933.0" layoutY="486.0" radiusX="11.0" radiusY="15.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Ellipse fill="#f3ff46" layoutX="922.0" layoutY="116.0" radiusX="100.0" radiusY="88.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Ellipse fill="WHITE" layoutX="270.0" layoutY="73.0" radiusX="110.0" radiusY="43.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Ellipse fill="WHITE" layoutX="321.0" layoutY="107.0" radiusX="77.0" radiusY="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Ellipse fill="WHITE" layoutX="429.0" layoutY="62.0" radiusX="126.0" radiusY="48.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Ellipse fill="#9a9a9a" layoutX="67.0" layoutY="103.0" radiusX="44.0" radiusY="15.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Ellipse fill="#9a9a9a" layoutX="95.0" layoutY="132.0" radiusX="28.0" radiusY="10.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Ellipse fill="#9a9a9a" layoutX="113.0" layoutY="162.0" radiusX="17.0" radiusY="7.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Polygon fill="#ff1f1f" layoutX="173.0" layoutY="253.0" points="-140.0, 40.0, 184.0, 40.0, 4.0, -84.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="86.0" layoutX="102.0" layoutY="188.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="22.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" height="20.0" layoutX="90.0" layoutY="178.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="46.0" />
+      <Line endX="83.2928466796875" endY="-5.0" layoutX="922.0" layoutY="216.0" startX="124.2928466796875" startY="69.0" stroke="#efff09" strokeWidth="5.0" />
+      <Line endX="83.2928466796875" endY="-5.0" layoutX="862.0" layoutY="227.0" startX="92.0" startY="113.0" stroke="#efff09" strokeWidth="5.0" />
+      <Line endX="-17.0" endY="1.0" layoutX="702.0" layoutY="15.0" startX="124.2928466796875" startY="69.0" stroke="#efff09" strokeWidth="5.0" />
+      <Line endX="83.2928466796875" endY="-5.0" layoutX="699.0" layoutY="146.0" startX="-56.0" startY="33.0" stroke="#efff09" strokeWidth="5.0" />
+      <Line endX="83.2928466796875" endY="-5.0" layoutX="742.0" layoutY="197.0" startX="4.0" startY="57.0" stroke="#efff09" strokeWidth="5.0" />
+      <Line endX="104.0" endY="-3.0" layoutX="780.0" layoutY="215.0" startX="63.0" startY="85.0" stroke="#efff09" strokeWidth="5.0" />
+      <Ellipse fill="WHITE" layoutX="828.0" layoutY="76.0" radiusX="126.0" radiusY="48.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Ellipse fill="WHITE" layoutX="894.0" layoutY="116.0" radiusX="72.0" radiusY="28.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#a6cdf2" height="30.0" layoutX="793.0" layoutY="460.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" width="77.0" />
+      <Line endX="12.0" endY="-36.0" layoutX="796.0" layoutY="471.0" startX="-5.0" stroke="#ff1818" strokeWidth="5.0" />
+      <Line endX="5.0" endY="-47.0" layoutX="806.0" layoutY="481.0" startX="50.0" startY="-47.0" stroke="#ff1818" strokeWidth="5.0" />
+      <Line endX="43.0" endY="-56.0" layoutX="816.0" layoutY="491.0" startX="56.0" startY="-26.0" stroke="#ff1818" strokeWidth="5.0" />
+      <Line endX="13.0" endY="-64.5" layoutX="816.0" layoutY="498.0" startX="13.0" startY="-10.0" stroke="#ff1818" strokeWidth="5.0" />
+      <Line endX="30.0" layoutX="707.0" layoutY="519.0" startX="11.0" strokeWidth="5.0" />
+      <Line endX="199.0" endY="-18.0" layoutX="721.0" layoutY="529.0" startX="218.0" startY="-18.0" stroke="#ff6a00" strokeWidth="5.0" />
+   </children>
+</AnchorPane>
